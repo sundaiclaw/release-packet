@@ -1,0 +1,4 @@
+- [ ] 1. Build a launch-input workspace with seeded sample data
+- [ ] 2. Add AI release packet generation
+- [ ] 3. Add risk audit and launch asset outputs
+- [ ] 4. Verify, deploy, and publish to Sundai
